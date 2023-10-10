@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Rust
 - 📫 You can reach me via Discord martyys
 
-- ##- Active Developer
-- ##- SSPŠ
+##Active Developer
+##SSPŠ
